@@ -1,0 +1,2 @@
+# ohtuvarasto
+Harjoitusrepo ohjelmistotuotannon kurssille
